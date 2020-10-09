@@ -1,4 +1,4 @@
-### Hola there, I'm Nipun - Passionate Coder ([profile])[website] 👋
+### Hola there, I'm Nipun - Passionate Coder [(profile)][website] 👋
 
 ## Cogito Ergo Sum !!
 
