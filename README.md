@@ -1,4 +1,4 @@
-### Hola there, I'm Nipun [nvshah.github.io] 👋
+### Hola there, I'm Nipun [profile][website] 👋
 
 ## Cogito Ergo Sum !!
 
