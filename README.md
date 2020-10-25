@@ -7,6 +7,7 @@
 - ❔ Always Esurient learning something new.
 - ✌️ I'm a philomath & I adore coding
 - 🥅 Goal: Never stop learning ❗
+-          Wanna be a splendid version of myself
 - ⚡ Fun fact: I love to play Table Tennis, & I'm dance athirst too. 👦 
 
 ### Connect with me:
