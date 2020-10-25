@@ -4,7 +4,7 @@
 
 - 👀 Eager Beaver, Learner 
 - 💡 Avid ML & Flutter Enthusiast 
-- ❔ Always Esurient to learn something new.
+- ❔ Always Esurient learning something new.
 - ✌️ I'm a philomath & I adore coding
 - 🥅 Goal: Never stop learning ❗
 - ⚡ Fun fact: I love to play Table Tennis, & I'm dance athirst too. 👦 
@@ -45,11 +45,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Flutter - Sembast(NoSql) [nvshah/Sembast-Avenger](https://github.com/nvshah/Sembast-Avenger)
-2. 🎉 Flutter - Task Buddy [nvshah/Task-buddy](https://github.com/nvshah/Task-buddy)
-3. 💪 Flutter - Covid Tracer [nvshah/CovidTracer](https://github.com/nvshah/CovidTracer) 
-4. 🎉 Flutter - Shop App [nvshah/StandStore](https://github.com/nvshah/StandStore) 
-5. 💪 Git - Notes [nvshah/GitNotes](https://github.com/nvshah/GitNotes) 
+1. 🎉 Flutter - Github-Users(APi) [nvshah/Github-Users](https://github.com/nvshah/Github-Users) 
+2. 💪 Flutter - Sembast(NoSql) [nvshah/Sembast-Avenger](https://github.com/nvshah/Sembast-Avenger)
+3. 🎉 Flutter - Task Buddy [nvshah/Task-buddy](https://github.com/nvshah/Task-buddy)
+4. 💪 Flutter - Covid Tracer [nvshah/CovidTracer](https://github.com/nvshah/CovidTracer) 
+5. 🎉 Flutter - Shop App [nvshah/StandStore](https://github.com/nvshah/StandStore) 
+6. 💪 Git - Notes [nvshah/GitNotes](https://github.com/nvshah/GitNotes) 
 <!--END_SECTION:activity-->
 
 </details>
