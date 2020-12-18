@@ -13,7 +13,7 @@
 ### Connect with me:
 
 <!--[<img align="left" alt="nvshah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
-[<img align="left" alt="nvshah | LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />][linkedin]">
+[<img align="left" alt="nvshah | LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />][linkedin]
 <!--[<img align="left" alt="nvshah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 [<img align="left" alt="nvshah | Instagram" width="22px" src="https://img.icons8.com/doodle/48/000000/instagram--v1.png" />][instagram]
 <!--[<img align="left" alt="nvshah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
