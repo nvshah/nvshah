@@ -12,12 +12,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nvshah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nvshah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="nvshah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" alt="nvshah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
+[<img align="left" alt="nvshah | LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />][linkedin]">
+<!--[<img align="left" alt="nvshah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+[<img align="left" alt="nvshah | Instagram" width="22px" src="https://img.icons8.com/doodle/48/000000/instagram--v1.png" />][instagram]
+<!--[<img align="left" alt="nvshah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
+[<img align="left" alt="nvshah | Twitter" width="22px" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" />][twitter]
+<!--[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/portfolio.png" />][website]
 [<img align="left" alt="nvshah | gist" width="22px" src="https://img.icons8.com/offices/24/000000/code.png" />][gist]
-[<img align="left" alt="nvshah | resume" width="22px" src="https://img.icons8.com/ios/24/000000/resume-website.png" />][resume]
+<!--[<img align="left" alt="nvshah | resume" width="22px" src="https://img.icons8.com/ios/24/000000/resume-website.png" />][resume]-->
+[<img align="left" alt="nvshah | resume" width="22px" src="https://img.icons8.com/dusk/64/000000/overview-pages-2.png" />][resume]
 
 <br />
 
